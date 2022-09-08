@@ -51,7 +51,9 @@ def index():
 
 
                 except:
+
                     rating = 'No Rating'
+
 
                 try:
                     #commentHead.encode(encoding='utf-8')
